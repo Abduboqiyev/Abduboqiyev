@@ -1,8 +1,26 @@
 # 👋 Salom, Men Nurmuhammadbek Abduboqiyev!
 
-🚀 **Python / Full-stack Dasturchiman**
+<!-- Profil rasm va markazlashtirilgan tanishtiruv -->
+<div align="center">
+  <img src="./my-photo.jpg" width="160" height="160" alt="Abduboqiyev Nurmuhammadbek" style="border-radius: 50%; object-fit: cover;" />
 
-Tezkor, xavfsiz va miqyoslanuvchi (scalable) backend tizimlar hamda interaktiv veb-ilovalar va Telegram botlar yaratish bilan shug'ullanaman.
+  <h3>🚀 Python / Full-stack Dasturchiman</h3>
+
+  <p>Tezkor, xavfsiz va miqyoslanuvchi (scalable) backend tizimlar hamda interaktiv veb-ilovalar va Telegram botlar yaratish bilan shug'ullanaman.</p>
+
+  <!-- Telegram, Email va boshqa ikkonchalar -->
+  <p>
+    <a href="https://t.me/ANA_O06" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="mailto:nabduboqiyev9@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/Abduboqiyev">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
 ---
 
@@ -39,13 +57,3 @@ Tezkor, xavfsiz va miqyoslanuvchi (scalable) backend tizimlar hamda interaktiv v
 > Internet ulanish tezligini (Download / Upload / Ping) real vaqt rejimida aniqlaydigan interaktiv veb-servis.
 * **Texnologiyalar:** Python (FastAPI), React.js, HTML/CSS.
 * **Xususiyatlari:** Yuqori aniqlik, tezkor yuklanish va responsive visual interfeys.
-
----
-
-## 📬 Menga Bog'lanish (Contacts)
-
-Siz bilan hamkorlik qilishdan yoki qiziqarli loyihalarni muhokama qilishdan mamnun bo'laman!
-
-* 💬 **Telegram:** [@ANA_O06](https://t.me/ANA_O06)
-* 📧 **Email:** [nabduboqiyev9@gmail.com](mailto:nabduboqiyev9@gmail.com)
-* 🐙 **GitHub:** [Abduboqiyev](https://github.com/Abduboqiyev)
